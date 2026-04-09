@@ -142,7 +142,7 @@ Want to run your own AI restaurant? Follow these steps:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/oscardias/silicon-bistro.git
+git clone https://github.com/softerize/silicon-bistro-ai.git
 cd silicon-bistro
 ```
 
