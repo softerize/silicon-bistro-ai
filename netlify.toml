@@ -1,0 +1,5 @@
+[build]
+  # Injects SUPABASE_URL and SUPABASE_ANON_KEY into index.html at build time.
+  # Set these variables in Netlify → Site settings → Environment variables.
+  command = "bash build.sh"
+  publish = "."
